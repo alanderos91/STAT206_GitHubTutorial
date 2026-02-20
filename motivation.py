@@ -6,7 +6,7 @@ new_grades = grades.copy()
 # --------------- BEGIN STUDENT CODE --------------- #
 
 
-
+print("hello world")
 
 
 # ---------------- END STUDENT CODE ---------------- #
