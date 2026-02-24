@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 grades = pd.read_json("grades.json")
 new_grades = grades.copy()
 
