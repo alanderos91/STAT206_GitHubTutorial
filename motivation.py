@@ -1,12 +1,12 @@
 import pandas as pd
 
+
 grades = pd.read_json("grades.json")
 new_grades = grades.copy()
 
 # --------------- BEGIN STUDENT CODE --------------- #
 
-
-
+new_grades["kcald", "grade"]  
 
 
 # ---------------- END STUDENT CODE ---------------- #
