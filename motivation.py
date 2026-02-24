@@ -8,10 +8,14 @@ new_grades = grades.copy()
 new_grades.loc[new_grades["id"] == "jong029", "grade"] = "A"
 # Alternate method:
 #new_grades.loc["jong029", "grade"] = "A"
+new_grades.loc["glin057","grade"] = "A"
+new_grades.loc["Jiaqi","grade"] = "A+"
+new_grades.loc["jtram003", "grade"] = "A"
+new_grades.loc["flores", "grade"] = "A"
+new_grades.loc[new_grades["student_id"] == "bmeft001", "grade"] = A
+new_grades.loc["mpenu005","grades"]="A"
+new_grades.loc["cluo042","grade"]="A"
 
-new_grades.loc[new_grades["id"] == "agarc714", "grade"] = "A"
-new_grades.loc[new_grades["id"] == "kcald", "grade"] = "A"
-new_grades.loc[new_grades["id"] == "anago001", "grade"] = "A"
 
 
 # ---------------- END STUDENT CODE ---------------- #
