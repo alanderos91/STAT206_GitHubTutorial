@@ -2,9 +2,9 @@ import pandas as pd
 
 grades = pd.read_json("grades.json")
 new_grades = grades.copy()
-
+new_grades
 # --------------- BEGIN STUDENT CODE --------------- #
-new_grades.loc["agarc714", "A"]
+new_grades.loc[new_grades["id"] == "agarc714", "grade"] = "A"
 
 
 
