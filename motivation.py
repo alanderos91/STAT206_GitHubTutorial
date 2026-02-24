@@ -8,7 +8,6 @@ new_grades.loc["cluo042","grade"]="A"
 
 
 
-
 # ---------------- END STUDENT CODE ---------------- #
 
 new_grades.to_json("new_grades.json", index = False)
