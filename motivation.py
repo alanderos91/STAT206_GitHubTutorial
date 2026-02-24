@@ -9,6 +9,7 @@ new_grades.loc[new_grades["id"] == "jong029", "grade"] = "A"
 # Alternate method:
 #new_grades.loc["jong029", "grade"] = "A"
 
+new_grades.loc[new_grades["id"] == "kcald", "grade"] = "A"
 new_grades.loc[new_grades["id"] == "anago001", "grade"] = "A"
 
 
