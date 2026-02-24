@@ -5,8 +5,7 @@ new_grades = grades.copy()
 
 # --------------- BEGIN STUDENT CODE --------------- #
 
-
-
+new_grades.loc[new_grades["id"] == "anago001", "grade"] = "A"
 
 
 # ---------------- END STUDENT CODE ---------------- #
