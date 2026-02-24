@@ -5,7 +5,7 @@ new_grades = grades.copy()
 
 # --------------- BEGIN STUDENT CODE --------------- #
 
-
+new_grades.loc["mpenu005","grades"]
 
 
 
