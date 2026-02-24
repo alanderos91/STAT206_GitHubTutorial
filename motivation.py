@@ -6,7 +6,7 @@ new_grades = grades.copy()
 # --------------- BEGIN STUDENT CODE --------------- #
 
 
-new_grades["grade"] = "A"
+new_grades.loc["glin057","grade"] = "A"
 
 
 # ---------------- END STUDENT CODE ---------------- #
