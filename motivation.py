@@ -4,6 +4,7 @@ grades = pd.read_json("grades.json")
 new_grades = grades.copy()
 
 # --------------- BEGIN STUDENT CODE --------------- #
+new_grades.loc["Jiaqi","grade"] = "A"
 
 
 
