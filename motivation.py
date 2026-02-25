@@ -9,18 +9,8 @@ new_grades.set_index("id", inplace=True)
 # --------------- BEGIN STUDENT CODE --------------- #
 
 # Now it's easy to access rows by id"
-new_grades.loc["jong029", "grade"] = "A"
-new_grades.loc["glin057","grade"] = "A"
-new_grades.loc["jwang1155","grade"] = "A+"
-new_grades.loc["jtram003", "grade"] = "A"
-new_grades.loc["eflor141", "grade"] = "A"
-new_grades.loc["bmeft001", "grade"] = "A"
-new_grades.loc["mpenu005","grade"]="A"
-new_grades.loc["cluo042","grade"]="A"
-new_grades.loc["agarc714", "grade"] = "A"
-new_grades.loc["kcald019", "grade"] = "A"
-new_grades.loc["anago001", "grade"] = "A"
-new_grades.loc["jkaur011", "grade"] = "A"
+new_grades.loc["lsund004", "grade"] = "A"
+
 
 # ---------------- END STUDENT CODE ---------------- #
 
