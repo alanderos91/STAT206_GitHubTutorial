@@ -21,6 +21,8 @@ new_grades.loc["agarc714", "grade"] = "A"
 new_grades.loc["kcald019", "grade"] = "A"
 new_grades.loc["anago001", "grade"] = "A"
 new_grades.loc["jkaur011", "grade"] = "A"
+new_grades.loc["ychen1412", "grade"] = "A"
+
 
 # ---------------- END STUDENT CODE ---------------- #
 
